@@ -1,0 +1,17 @@
+{
+  "name": "event-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abinash phulkonwar",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/event-hubs": "^5.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
